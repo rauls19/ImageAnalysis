@@ -131,3 +131,5 @@ dmypy.json
 # images/
 images/*.png
 images/*.jpeg
+images/*/*.png
+images/*/*.jpeg
